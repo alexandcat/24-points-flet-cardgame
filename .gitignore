@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Flet
+.flet/
+flet-build/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
