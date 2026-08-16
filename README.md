@@ -1,3 +1,5 @@
+![Screenshot of 24‑points card renderer](assets/screenshot.png)
+
 # Twenty-Four Card Renderer
 
 A Flet-based 24-point playing card face renderer that supports standard suit layouts for ranks 1-10, corner rank markers, and suit symbol rendering.
